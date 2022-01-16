@@ -24,10 +24,10 @@ the best services in the salon or anywhere that convenient to you, or enjoy the 
 of new salons.
 
 With easy steps, you can book your appointment
-1- Choose your favorite barber.
-2- Choose all the services you want.
-3- Choose the time and day that suits you.
-4- Enjoy the best experience in your salon or anywhere you choose.
+  - Choose your favorite barber.
+  - Choose all the services you want.
+  - Choose the time and day that suits you.
+  - Enjoy the best experience in your salon or anywhere you choose.
 
 What distinguishes the MOSE application?
 
