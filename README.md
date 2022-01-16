@@ -1,7 +1,5 @@
 # SALON BOOKING APP
 
-Salon Booking App
-
 ## Getting Started
 
 ![App UI](/project.png)
@@ -49,7 +47,7 @@ the balance of the wallet.
 - MOSE lets you write and mention any notes you want to alert your barber.
 Lots of different offers and services.
 
-**Link App on GooglePlay**
+## Link App on GooglePlay**
 [link](https://play.google.com/store/apps/details?id=com.salonMose.user)
 
 
