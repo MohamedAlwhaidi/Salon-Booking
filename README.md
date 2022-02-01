@@ -47,8 +47,8 @@ the balance of the wallet.
 - MOSE lets you write and mention any notes you want to alert your barber.
 Lots of different offers and services.
 
-## Link App on GooglePlay
-[link](https://play.google.com/store/apps/details?id=com.salonMose.user)
+## Link App on GooglePlay [link](https://play.google.com/store/apps/details?id=com.salonMose.user)
+## Link App on AppStore [link](https://apps.apple.com/us/app/mose-%D9%85%D9%88%D8%B3/id1592422663)
 
 
 **Packages I'am using:**
